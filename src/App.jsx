@@ -17,7 +17,7 @@ import myImage from "./assets/my.jpg";
 //  Agar image nahi daalni toh chhod do as-is,
 //  silhouette automatically show hogi 💜
 // ═══════════════════════════════════════════════════
-const IMAGE_URL = "/src/assets/my.jpg"; // <-- YAHAN APNI IMAGE DAALO
+const IMAGE_URL = myImage; // <-- YAHAN APNI IMAGE DAALO
 
 // ═══════════════════════════════════════════════════
 //  CUSTOMIZE KAR APNE ACCORDING:
