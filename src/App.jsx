@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from "react";
+import myImage from "./assets/my.jpg";
 
 // ═══════════════════════════════════════════════════
 //  🌟 SHE IN THE STARS — React Component
